@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnOffASW", "TurnOffAsyncSpacewarp\TurnOffASW.csproj", "{33D28416-BBC2-436B-886F-E6BF859DF93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D28416-BBC2-436B-886F-E6BF859DF93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D28416-BBC2-436B-886F-E6BF859DF93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D28416-BBC2-436B-886F-E6BF859DF93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D28416-BBC2-436B-886F-E6BF859DF93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C9B001-B2B2-4E54-8181-1058B010D188}
+	EndGlobalSection
+EndGlobal
